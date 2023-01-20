@@ -1,4 +1,4 @@
-# CPU Temps - Alexander Lasson 01059661 
+# CPU Temps - Alexander Lasson
 This program will takes the readings from 4 cores 
 in a CPU. 
 
