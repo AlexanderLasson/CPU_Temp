@@ -2,6 +2,19 @@
 This program will takes the readings from 4 cores 
 in a CPU. 
 
+CPU Temperature Monitoring System
+
+Overview
+
+Welcome to the CPU Temperature Monitoring System project! This project was developed as part of a college assignment to create a tool for monitoring and analyzing the temperature of a computer's central processing unit (CPU). The goal was to provide users with real-time information about their CPU temperature, allowing them to make informed decisions about system performance and cooling.
+
+Features
+
+Real-time Temperature Monitoring: The system provides continuous monitoring of the CPU temperature, displaying the data in a user-friendly interface.
+Graphical Representation: Temperature data is visualized through graphs, enabling users to observe trends and fluctuations over time.
+User Alerts: Customizable temperature thresholds trigger alerts to notify users of potential overheating issues. This feature helps users take preventive measures before critical situations occur.
+Data Logging: The system records historical temperature data, allowing users to review past performance and identify patterns.
+Cross-Platform Compatibility: The project is designed to be cross-platform, ensuring compatibility with various operating systems.
 
 Each reading was taken in 30 second intervals.
 
